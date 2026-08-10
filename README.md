@@ -1,6 +1,6 @@
 ### 🛡️ About Me:
 
-MSc in Computer Engineering @ UniNa. Interested in cybersecurity and AI research for critical infrastructure.
+MSc Graduate @ UniNa. Interested in cybersecurity and AI research for critical infrastructure.
 
 ### 🌐 Socials:
 
