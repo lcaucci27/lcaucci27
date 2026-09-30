@@ -1,21 +1,21 @@
-# Luigi Caucci
+### 🛡️ About Me:
 
-M.Sc. in Computer Engineering (Embedded Systems for Industry and IoT), University of Naples Federico II, July 2026, 110/110 with honours. I work on the dependability and security of industrial and distributed systems.
+MSc Graduate @ UniNa. Interested in cybersecurity and AI research for critical infrastructure.
 
-[LinkedIn](https://www.linkedin.com/in/lcaucci27/) | [Email](mailto:luigi.caucci01@gmail.com)
+### 🌐 Socials:
 
-## Projects
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lcaucci27/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luigi.caucci01@gmail.com)
 
-- **[Performance and Dependability Evaluation of a Web Server](https://github.com/lcaucci27/Processing-Plants)**: JMeter capacity test of an Apache server (knee at about 2400 req/min, usable capacity about 3200 req/min), a 64-run design of experiments, reliability models and field failure logs of two HPC clusters. Team of 3.
-- **[Cache Coherency and Latency on Zynq UltraScale+ MPSoC](https://github.com/lcaucci27/Real-Time-Systems-and-Industrial-Applications)**: APU-to-RPU latency for packets from 1 B to 64 KB. Cache maintenance costs about 60 ns per 64 B line, and a TCM baseline is 5.7× faster than DDR. Team of 2.
-- **[SDN Detection and Mitigation of DoS Attacks](https://github.com/lcaucci27/Networks-and-Cloud-Infrastructures)**: a Ryu controller that polls port statistics every 5 s and blocks the offending host port, tested in Mininet. Team of 3.
-- **[Watermark](https://github.com/lcaucci27/watermark-privacy-auditor)**: an offline privacy auditor for municipal open data, built in 7 hours at CUAI26 (Naples, September 2026) with Luca Antonio Scolletta. It found 99.5% of Roma Capitale WiFi sessions unique.
-- **M.Sc. thesis**: a physics-based simulator of the SWaT water treatment plant for ICS security testing, used to evaluate four anomaly detectors against stealth false data injection attacks.
+### 💻 Tech Stack:
 
-## Stack
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black) ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white) ![Simulink](https://img.shields.io/badge/Simulink-0076A8?logo=mathworks&logoColor=white) ![VHDL](https://img.shields.io/badge/VHDL-FF6600?logo=v&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white)
 
-**Languages:** Python, C, C++, Bash, VHDL, Java, SQL
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 
-**Tools:** Linux, Docker, Kubernetes, Git, Mininet, Ryu, PyTorch, scikit-learn, JMeter
+![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
-**Areas:** dependability and reliability modelling, ICS and OT security, anomaly detection, SDN, distributed and edge infrastructure, embedded and real-time systems
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white)
+
+### 🔒 Security & Systems Research:
+
+`SDN/DoS Mitigation (Ryu, Mininet)` `Applied Cryptography` `IDS/Anomaly Detection (SWaT)` `NFV Orchestration (Kubernetes, Open5GS)`
