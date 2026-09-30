@@ -8,7 +8,7 @@ I spend my time on systems that are supposed to keep running, and on the reasons
 
 ### 💻 Tech Stack:
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white) ![VHDL](https://img.shields.io/badge/VHDL-FF6600?logo=v&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white) ![VHDL](https://img.shields.io/badge/VHDL-FF6600?logo=v&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791)
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 
