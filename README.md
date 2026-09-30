@@ -1,6 +1,6 @@
 ### 🛡️ About Me:
 
-M.Sc. in Computer Engineering, University of Naples Federico II (110/110 with honours). I work on the dependability and security of industrial and distributed systems.
+M.Sc. in Computer Engineering, University of Naples Federico II. I work on the dependability and security of industrial and distributed systems.
 
 ### 🌐 Socials:
 
