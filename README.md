@@ -1,6 +1,8 @@
 ### 🛡️ About Me:
 
-M.Sc. in Computer Engineering, University of Naples Federico II. I work on the dependability and security of industrial and distributed systems.
+I spend my time on systems that are supposed to keep running, and on the reasons they don't.
+
+M.Sc. in Computer Engineering, University of Naples Federico II (2026).
 
 ### 🌐 Socials:
 
@@ -12,10 +14,10 @@ M.Sc. in Computer Engineering, University of Naples Federico II. I work on the d
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ![Mininet](https://img.shields.io/badge/Mininet-555555) ![Ryu](https://img.shields.io/badge/Ryu-555555) ![JMeter](https://img.shields.io/badge/JMeter-D22128?logo=apachejmeter&logoColor=white)
 
 ### 🔒 Security & Systems Research:
 
-`SDN/DoS Mitigation (Ryu, Mininet)` `ICS Anomaly Detection (SWaT)` `Dependability Evaluation (JMeter, HPC failure logs)` `Cache Coherency (Zynq UltraScale+)` `Privacy Auditing (Watermark)`
+`ICS/OT Security` `Anomaly Detection (SWaT)` `Dependability & Reliability Modelling` `SDN/DoS Mitigation (Ryu, Mininet)` `Cache Coherency (Zynq UltraScale+)` `Privacy Auditing (open data)`
